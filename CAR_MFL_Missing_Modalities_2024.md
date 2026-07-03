@@ -151,6 +151,7 @@ text modality is missing. The second row
 displays retrieved images when the 
 image modality is missing
 ## Figure 5
+<img width="1920" height="1080" alt="page-021" src="https://github.com/user-attachments/assets/e6bb2add-66e4-4f6c-af3c-5eaa3429a6bf" />
 
 Label distribution of different datasets in 
 our setup
